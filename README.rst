@@ -5,11 +5,11 @@ Domain Availability CheCker + ORDerability
 
 
 Cli tools which are originally introduced as ``domainfinder`` in the
-[Go: Building Web Applications] Book. This is inspired project it, and
-written in Rust.
+`Go: Building Web Applications`_ Book. This is inspired project by it,
+and written in Rust.
 
 
-[Go: Building Web Applications]: https://github.com/PacktPublishing/Go-Building-Web-Applications
+.. _`Go: Building Web Applications`: https://github.com/PacktPublishing/Go-Building-Web-Applications
 
 
 .. code:: zsh

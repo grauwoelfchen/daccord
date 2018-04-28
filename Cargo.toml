@@ -1,0 +1,15 @@
+[package]
+name = "daccord"
+version = "0.0.1"
+authors = ["Yasuhiro Asaka <yasuhiro.asaka@grauwoelfchen.net>"]
+description = "Domain Availability CheCker + ORDerability"
+repository = "https://gitlab.com/grauwoelfchen/daccord"
+keywords = []
+license = "Apache-2.0"
+
+[[bin]]
+name = "daccord"
+path = "src/main.rs"
+
+[dependencies]
+clippy = { version = "^0.0.193", optional = true }

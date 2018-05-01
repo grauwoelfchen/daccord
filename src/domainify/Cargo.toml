@@ -1,0 +1,11 @@
+[package]
+name = "domainify"
+version = "0.0.0"
+authors = ["Yasuhiro Asaka <yasuhiro.asaka@grauwoelfchen.net>"]
+
+[[bin]]
+name = "domainify"
+path = "src/main.rs"
+
+[dependencies]
+rand = "0.5.0-pre.1"

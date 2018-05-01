@@ -16,6 +16,11 @@ and written in Rust.
 
   % cd src/sprinkle
   % echo "hoi" | cargo run
+  gohoi
+
+  % cd src/domainify
+  % echo "What's up?" | cargo run
+  whats-up.com
 
 
 License

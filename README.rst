@@ -22,6 +22,14 @@ and written in Rust.
   % echo "What's up?" | cargo run
   whats-up.com
 
+  % cd src/coolify
+  % echo "dog" | cargo run
+  doog
+
+  % echo "cat" | sprinkle | coolify | domainify
+  lets-caat.net
+
+
 
 License
 -------

@@ -18,7 +18,7 @@ const TRANSFORMS: &[&'static str] = &[
   concat!(other_word!(), "time"),
   concat!("get", other_word!()),
   concat!("go", other_word!()),
-  concat!("lets", other_word!()),
+  concat!("lets ", other_word!()),
 ];
 
 fn main() {

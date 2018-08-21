@@ -1,3 +1,6 @@
+Wed 22 Aug 2018 Yasuhiro Asaka <yasuhiro.asaka@grauwoelfchen.net>
+	* Update rust nightly components (clippy, rustfmt)
+
 Thu 3 May 2018 Yasuhiro Asaka <yasuhiro.asaka@grauwoelfchen.net>
 	* Add coolify
 

@@ -1,11 +1,11 @@
 D'accord
 ========
 
-Domain Availability CheCker + ORDerability
+Domain Availability CheCker d'accORD
 
 
 Cli tools which are originally introduced as ``domainfinder`` in the
-`Go: Building Web Applications`_ Book. This is inspired project by it,
+`Go: Building Web Applications`_ Book. This is a project inspired by it,
 and written in Rust.
 
 

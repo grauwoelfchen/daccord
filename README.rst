@@ -14,20 +14,28 @@ and written in Rust.
 
 .. code:: zsh
 
-  % cd src/sprinkle
+  # sprinkle
+  % cd path/to/daccord/src/sprinkle
   % echo "hoi" | cargo run
   gohoi
 
-  % cd src/domainify
+  # domainify
+  % cd path/to/daccord/src/domainify
   % echo "What's up?" | cargo run
   whats-up.com
 
-  % cd src/coolify
+  # coolify
+  % cd path/to/daccord/src/coolify
   % echo "dog" | cargo run
   doog
 
-  % echo "cat" | sprinkle | coolify | domainify
+  % echo "cat" | path/to/sprinkle | path/to/coolify | path/to/domainify
   lets-caat.net
+
+  % cd path/to/daccord/src/synonyms
+  % ./synonyms
+  chat
+  ...
 
 
 
